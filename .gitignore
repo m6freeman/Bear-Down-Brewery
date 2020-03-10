@@ -1,2 +1,5 @@
 /src/*
 /notes/*
+*.7z
+*.zip
+*.tar
